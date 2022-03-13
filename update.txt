@@ -1,0 +1,16 @@
+cho người mới khởi tạo:
+1:tải git 
+tạo response trên git 
+copy link trên respone để clone 
+vào terminal:
+b1 git init
+b2 git add . ( lệnh này để update code trong thư mục vừa clone )
+b3 git commit -m "update"
+b4 git push -u origin main
+
+
+
+cho người muốn update
+b1 :git add .
+b2: git commit -m "update"
+b3: git push -u origin 
